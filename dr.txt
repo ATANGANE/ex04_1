@@ -1,0 +1,8 @@
+ex04_1
+
+Erreur de syntaxe:
+'file:///C:/Users/ridjanod.FSA-RIDJANOD-2/educ/2014a/dart1/atangane_fontsa/ex04_1/bin/ex04_1.dart': error: line 9 pos 29: unterminated string literal
+print("fib(“+i+”)=”+fib(i));
+
+voir ma solution
+
